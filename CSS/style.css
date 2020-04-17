@@ -1,6 +1,6 @@
 body {
 
-  background-color: #ffd1bd;
+  background-color: mistyrose;
 
 }
 
@@ -15,9 +15,12 @@ hr {
 h1 {
   color: #ffb0cd;
 }
+
 h3 {
   
   color: #ffb0cd;
-  
-  
-} 
+}
+/***********selectors*******/
+
+
+
